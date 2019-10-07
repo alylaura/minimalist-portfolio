@@ -1,13 +1,8 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-.grid-2{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-}
-
 body{
-    margin: 0;
+    margin: 10px;
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #fffcf9;
@@ -58,14 +53,14 @@ a{
 .section-2 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
-    margin:0;
+    margin:10px;
 }
 
 .section-2 a{
     display: block;
     padding: 5px;
     font-size: 1.2rem;
-    padding-left: 0;
+    padding-left: 10px;
     /*width: 100px;*/
 }
 /* animations / utilities */
