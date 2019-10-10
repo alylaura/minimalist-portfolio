@@ -71,6 +71,20 @@ h2{ font-size: 250%}
 
     a{
     color: #D1A080;
+      
+      <style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+</style>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
         
 div {
     height: 200px;
