@@ -13,6 +13,11 @@ body{ font-family: 'Crimson Text', serif;
      color: #F53163;
 }
 
+.section-1 a{
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
 .section-2 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
@@ -24,9 +29,11 @@ body{ font-family: 'Crimson Text', serif;
     padding: 5px;
     font-size: 1.2rem;
     padding-left: 10px;
-    /*width: 100px;
+    /*width: 100px;*/ 
 }
 
+    a{
+    color: #D1A080;
         
 div {
     height: 200px;
